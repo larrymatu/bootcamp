@@ -1,3 +1,3 @@
 # WECONNECT
 
-project for andela bootcamp 25
+Project for andela bootcamp 25
